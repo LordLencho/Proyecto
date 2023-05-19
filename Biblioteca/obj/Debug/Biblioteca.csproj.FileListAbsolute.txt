@@ -1,0 +1,344 @@
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\Biblioteca.dll.config
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\Biblioteca.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\Biblioteca.pdb
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\csc.exe
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\csc.exe.config
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\csc.rsp
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\csi.exe
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\csi.exe.config
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\csi.rsp
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\System.AppContext.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\System.Console.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\System.IO.Compression.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\System.Net.Http.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\System.ValueTuple.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\vbc.exe
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\vbc.exe.config
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\vbc.rsp
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\VBCSCompiler.exe
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\Antlr3.Runtime.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\Newtonsoft.Json.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\System.Web.Helpers.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\System.Web.Mvc.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\System.Web.Optimization.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\System.Web.Razor.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\System.Web.WebPages.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\System.Web.WebPages.Razor.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\WebGrease.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\System.Web.Helpers.xml
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\System.Web.Mvc.xml
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\System.Web.Optimization.xml
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\System.Web.Razor.xml
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\System.Web.WebPages.xml
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\System.Web.WebPages.Razor.xml
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\Newtonsoft.Json.xml
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\Antlr3.Runtime.pdb
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\es\System.Web.Razor.resources.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\obj\Debug\Biblioteca.csproj.CopyComplete
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Melissa Gerardo\source\repos\Proyecto\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\Biblioteca.dll.config
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\Biblioteca.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\Biblioteca.pdb
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\csc.exe
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\csc.exe.config
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\csc.rsp
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\csi.exe
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\csi.exe.config
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\csi.rsp
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\Microsoft.Managed.Core.targets
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\System.AppContext.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\System.Collections.Immutable.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\System.Console.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\System.Globalization.Calendars.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\System.IO.Compression.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\System.IO.FileSystem.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\System.Net.Http.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\System.Net.Sockets.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\System.Reflection.Metadata.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\System.ValueTuple.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\System.Xml.XmlDocument.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\System.Xml.XPath.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\vbc.exe
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\vbc.exe.config
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\vbc.rsp
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\VBCSCompiler.exe
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\roslyn\VBCSCompiler.exe.config
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\Antlr3.Runtime.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\Microsoft.Web.Infrastructure.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\Newtonsoft.Json.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\System.Web.Helpers.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\System.Web.Mvc.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\System.Web.Optimization.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\System.Web.Razor.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\System.Web.WebPages.Deployment.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\System.Web.WebPages.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\System.Web.WebPages.Razor.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\WebGrease.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\System.Web.Helpers.xml
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\System.Web.Mvc.xml
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\System.Web.Optimization.xml
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\System.Web.Razor.xml
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\System.Web.WebPages.xml
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\System.Web.WebPages.Deployment.xml
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\System.Web.WebPages.Razor.xml
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\Newtonsoft.Json.xml
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\Antlr3.Runtime.pdb
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\es\System.Web.Helpers.resources.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\es\System.Web.Mvc.resources.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\es\System.Web.Optimization.resources.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\es\System.Web.Razor.resources.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\es\System.Web.WebPages.resources.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\obj\Debug\Biblioteca.csproj.CopyComplete
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\obj\Debug\Biblioteca.dll
+C:\UNIVERSIDAD 6TO SEMESTRE\APLICACIONES WEB AVANZADAS\ProyectoBiblioteca\Proyecto\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\Biblioteca.dll.config
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\Biblioteca.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\Biblioteca.pdb
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\csc.exe
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\csc.exe.config
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\csc.rsp
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\csi.exe
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\csi.exe.config
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\csi.rsp
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\System.AppContext.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\System.Console.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\System.IO.Compression.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\System.Net.Http.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\System.Net.Sockets.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\System.ValueTuple.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\System.Xml.XPath.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\vbc.exe
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\vbc.exe.config
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\vbc.rsp
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\VBCSCompiler.exe
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\Antlr3.Runtime.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\Newtonsoft.Json.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\System.Web.Helpers.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\System.Web.Mvc.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\System.Web.Optimization.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\System.Web.Razor.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\System.Web.WebPages.Deployment.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\System.Web.WebPages.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\System.Web.WebPages.Razor.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\WebGrease.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\System.Web.Helpers.xml
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\System.Web.Mvc.xml
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\System.Web.Optimization.xml
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\System.Web.Razor.xml
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\System.Web.WebPages.xml
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\System.Web.WebPages.Deployment.xml
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\System.Web.WebPages.Razor.xml
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\Newtonsoft.Json.xml
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\Antlr3.Runtime.pdb
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\es\System.Web.Helpers.resources.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\es\System.Web.Mvc.resources.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\es\System.Web.Optimization.resources.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\es\System.Web.Razor.resources.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\es\System.Web.WebPages.resources.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\obj\Debug\Biblioteca.csproj.CopyComplete
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\panfi\Downloads\ProyectoBiblioteca - copia (2)\Proyecto\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\Biblioteca.dll.config
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\Biblioteca.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\Biblioteca.pdb
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\csc.exe
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\csc.exe.config
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\csc.rsp
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\csi.exe
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\csi.exe.config
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\csi.rsp
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\System.AppContext.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\System.Console.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\System.IO.Compression.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\System.Net.Http.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\System.Net.Sockets.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\System.ValueTuple.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\System.Xml.XPath.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\vbc.exe
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\vbc.exe.config
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\vbc.rsp
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\VBCSCompiler.exe
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\Antlr3.Runtime.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\Newtonsoft.Json.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\System.Web.Helpers.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\System.Web.Mvc.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\System.Web.Optimization.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\System.Web.Razor.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\System.Web.WebPages.Deployment.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\System.Web.WebPages.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\System.Web.WebPages.Razor.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\WebGrease.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\System.Web.Helpers.xml
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\System.Web.Mvc.xml
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\System.Web.Optimization.xml
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\System.Web.Razor.xml
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\System.Web.WebPages.xml
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\System.Web.WebPages.Deployment.xml
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\System.Web.WebPages.Razor.xml
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\Newtonsoft.Json.xml
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\Antlr3.Runtime.pdb
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\es\System.Web.Helpers.resources.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\es\System.Web.Mvc.resources.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\es\System.Web.Optimization.resources.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\es\System.Web.Razor.resources.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\es\System.Web.WebPages.resources.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\obj\Debug\Biblioteca.csproj.CopyComplete
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\panfi\OneDrive\Escritorio\Proyecto\Biblioteca\obj\Debug\Biblioteca.pdb

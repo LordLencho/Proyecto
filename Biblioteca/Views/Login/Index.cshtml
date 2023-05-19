@@ -1,0 +1,92 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Inicio de sesion</title>
+    @Styles.Render("~/css/sb-admin-2.min.css")
+    <style>
+    </style>
+</head>
+
+<body class="bg-gradient-primary">
+    <div class="container">
+
+        <!-- Contenedor de las opciones del menu o barra lateral-->
+
+        <div class="row justify-content-center">
+            <div class="col-xl-10 col-lg-12 col-md-9">
+                <div class="card o-hidden border-0 shadow-lg my-5">
+                    <div class="card-body p-0">
+                        <!-- Body -->
+                        <div class="row">
+                            <div class="col-6">
+                                <img src="@Url.Content("~/images/Mustang.jpg")" style="width: 500px;height: 500px;" />
+                            </div>
+                            <div class="col-6">
+                                <div class="p-5">
+                                    <div class="text-center">
+                                        <h1 class="h4 text-gray-900 mb-4">Bienvenido</h1>
+                                    </div>
+
+                                    <!-- Validamos los datos del usuario y redirigimos al Index-->
+
+                                    <form class="user" action="@Url.Action("Index","Login")" method="post">
+                                        <div class="form-group">
+                                            <input type="email" class="form-control form-control-user" name="correo" placeholder="Email" value="panfilo91_23@hotmail.com">
+                                        </div>
+                                        <div class="form-group">
+                                            <input type="password" class="form-control form-control-user" name="clave" placeholder="Password" value="123">
+                                        </div>
+
+                                        <!--Contenedor para los errores-->
+                                        <div class="form-group">
+                                            @{if (ViewBag.Error != null)
+                                                {
+                                                    <div class="alert alert-danger" role="alert">
+                                                        @ViewBag.Error
+                                                    </div>
+                                                }
+                                            }
+                                        </div>
+
+                                        @*<button class="btn btn-primary btn-block btn-user" type="submit">Ingresar</button>*@
+                                        <button id="boton" class="btn btn-primary btn-block btn-user gradient-button" type="submit">Ingresar</button>
+                                    </form>
+
+                                    <hr>
+                                    <div class="text-center justify-content-center">
+                                        <p class="text-primary mb-0">Todos los derechos reservados &copy;<a href="" target="_blank" class="text-danger ml-1"><b>Francisco Castañeda</b></a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Aplicamos los scripts de la libreria bootstrap-->
+    @Scripts.Render("~/bundles/bootstrap")
+</body>
+</html>
+
+@*<div class="loginBox">
+        <img class="user" src="https://i.ibb.co/yVGxFPR/2.png" height="100px" width="100px">
+        <h3>Bienvenido</h3>
+        <link href="Style.css" rel="stylesheet" />
+        @Styles.Render("~/css/Style.css")
+        <form action="login.php" method="post">
+            <div class="inputBox"> <input id="uname" type="text" name="Username" placeholder="Username"> <input id="pass" type="password" name="Password" placeholder="Password"> </div> <input type="submit" name="" value="Login">
+        </form>
+        <a href="#">Forget Password<br> </a>
+        <div class="text-center">
+            <p style="color: #59238F;">Sign-Up</p>
+        </div>
+
+    </div>*@
